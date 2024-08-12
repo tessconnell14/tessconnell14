@@ -1,4 +1,4 @@
-![Photo](https://github.com/user-attachments/assets/2b9dc72c-a3d8-416a-a0cb-5588c1606316)
+<img width="325" alt="Screenshot 2024-08-12 at 17 20 38" src="https://github.com/user-attachments/assets/ce7db9bc-6183-4614-8c0c-34878278e6fd">
 
 ### 👋 Hi, I’m Tess!
 
