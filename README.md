@@ -1,4 +1,4 @@
-<img width="325" alt="Screenshot 2024-08-12 at 17 20 38" src="https://github.com/user-attachments/assets/ce7db9bc-6183-4614-8c0c-34878278e6fd">
+<img width="325" alt="Image of white woman wearing a beanie and jumper. Her arms are missing from below the elbow on both sides." src="https://github.com/user-attachments/assets/ce7db9bc-6183-4614-8c0c-34878278e6fd">
 
 ### 👋 Hi, I’m Tess!
 
