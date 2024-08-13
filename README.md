@@ -8,7 +8,7 @@
 
 🦾 I’m interested in digital inclusion and accessibility
 
-🌱 I’m currently working on a small data analysis project using pandas
+🌱 I’m currently working on an animation in JavaScript
 
 ---
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tess-connell/)
