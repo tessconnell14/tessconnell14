@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Tess!
 
-💻  After 11 years teaching, I am excited to be career switching into Tech
+💻  After 11 years experience in Education, I am excited to be career switching into Tech
 
 👩‍💻 I have recently completed the ⭐️ Code First Girls ⭐️ Degree in Product Management and Data for Business +Masters
 
